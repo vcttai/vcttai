@@ -22,8 +22,7 @@
 
 - [vcttai/vcttai.github.io](https://github.com/vcttai/vcttai.github.io) - 
 - [vcttai/treeview_with_a11y](https://github.com/vcttai/treeview_with_a11y) - Experiment TreeView with accessibility (a11y)
-- [vcttai/phpunit_exp](https://github.com/vcttai/phpunit_exp) - 
-- [vcttai/tv_php_framework](https://github.com/vcttai/tv_php_framework) - 
+- [vcttai/phpunit_exp](https://github.com/vcttai/phpunit_exp) - Try key features of PHPUnit with specific test cases.
 
 ### 🔭 Latest releases I've contributed to
 
