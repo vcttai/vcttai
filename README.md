@@ -7,7 +7,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (5 days ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (6 days ago)
 - [vcttai/vcttai.github.io](https://github.com/vcttai/vcttai.github.io) - Tai Vu&#39;s Github page. (4 months ago)
 - [tai-vu-hcmuit/IT2034.CH1502.BigData.Dashboard](https://github.com/tai-vu-hcmuit/IT2034.CH1502.BigData.Dashboard) -  (5 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.ImageHub](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.ImageHub) -  (5 months ago)
@@ -16,7 +16,7 @@
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation) -  (7 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor) -  (7 months ago)
 - [taivu-learning/docker_tutorial](https://github.com/taivu-learning/docker_tutorial) - Try Docker Getting Started Tutorial (7 months ago)
-- [tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi) -  (7 months ago)
+- [tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi) -  (8 months ago)
 
 ### 🌱 My latest projects
 
@@ -26,7 +26,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.4.0), 2 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.4.0), 3 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
