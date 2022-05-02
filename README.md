@@ -12,7 +12,7 @@
 - [tai-vu-hcmuit/IT2034.CH1502.BigData.Dashboard](https://github.com/tai-vu-hcmuit/IT2034.CH1502.BigData.Dashboard) -  (7 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.ImageHub](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.ImageHub) -  (7 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.TryGoogleMap](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.TryGoogleMap) -  (7 months ago)
-- [tai-vu-hcmuit/IS6106.HTTTDD.Android.OpenCV](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.OpenCV) -  (7 months ago)
+- [tai-vu-hcmuit/IS6106.HTTTDD.Android.OpenCV](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.OpenCV) -  (8 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation) -  (8 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor) -  (8 months ago)
 - [taivu-learning/docker_tutorial](https://github.com/taivu-learning/docker_tutorial) - Try Docker Getting Started Tutorial (8 months ago)
