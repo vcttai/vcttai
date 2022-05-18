@@ -14,7 +14,7 @@
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.TryGoogleMap](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.TryGoogleMap) -  (8 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.OpenCV](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.OpenCV) -  (8 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation) -  (8 months ago)
-- [tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor) -  (8 months ago)
+- [tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor) -  (9 months ago)
 - [taivu-learning/docker_tutorial](https://github.com/taivu-learning/docker_tutorial) - Try Docker Getting Started Tutorial (9 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi) -  (9 months ago)
 
