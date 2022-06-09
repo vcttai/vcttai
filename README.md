@@ -26,7 +26,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.3.0), 4 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.3.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
