@@ -16,7 +16,7 @@
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.Navigation) -  (11 months ago)
 - [tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.StorageAndSensor) -  (11 months ago)
 - [taivu-learning/docker_tutorial](https://github.com/taivu-learning/docker_tutorial) - Try Docker Getting Started Tutorial (11 months ago)
-- [tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi) -  (11 months ago)
+- [tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi](https://github.com/tai-vu-hcmuit/IS6106.HTTTDD.Android.RestApi) -  (1 year ago)
 
 ### 🌱 My latest projects
 
@@ -26,7 +26,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.4.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.4.0), 1 day ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
